@@ -8,6 +8,7 @@ In this project I learned:
 + Optical Flow: Measure camera movement
 + Perspective Transformation: Represent scene depth and perspective
 + Speed and distance calculation per player
++ Google Colab: train my model
 
 This project is based on this [Youtube video](https://www.youtube.com/watch?v=neBZ6huolkg&t=15039s&ab_channel=CodeInaJiffy) with a few optimizations and modifications to fit my liking
 
