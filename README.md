@@ -1,9 +1,10 @@
 # AIFootball
 In this project I learned:
 
-+ Basic of Python (i hate dict)
++ Basics of Python (i hate dict)
 + YOLO: AI object detection model
 + Kmeans: Pixel segmentation and clustering to detect t-shirt color
++ Interpolate data
 + Optical Flow: Measure camera movement
 + Perspective Transformation: Represent scene depth and perspective
 + Speed and distance calculation per player
