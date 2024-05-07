@@ -1,5 +1,4 @@
-# AIFootballStats
- 
+# AIFootball
 In this project I learned:
 
 + Basic of Python (i hate dict)
